@@ -1,0 +1,148 @@
+[
+  {
+    "title": "General",
+    "list": [
+      {
+        "title": "open a terminal",
+        "shortcut": "cmd + enter",
+        "namespace": "things"
+      }
+    ]
+  },
+  {
+    "title": "Yabai",
+    "list": [
+      {
+        "title": "focus window",
+        "shortcut": "alt + hjkl",
+        "category": "window",
+        "namespace": "window"
+      },
+      {
+        "title": "focus next window",
+        "shortcut": "alt + g",
+        "category": "window",
+        "namespace": "window"
+      },
+      {
+        "title": "swap window",
+        "shortcut": "shift + alt + hjkl",
+        "category": "window"
+      },
+      {
+        "title": "warp window",
+        "shortcut": "shift + cmd + hjkl",
+        "category": "window",
+        "aliases": ["move"]
+      },
+      {
+        "title": "increase window size",
+        "shortcut": "shift + alt + wasd",
+        "category": "window"
+      },
+      {
+        "title": "decrease window size",
+        "shortcut": "shift + cmd + wasd",
+        "category": "window"
+      },
+      {
+        "title": "set insertion point in focused container",
+        "shortcut": "ctrl + alt + hjkl"
+      },
+      {
+        "title": "toggle window fullscreen zoom",
+        "shortcut": "alt + f",
+        "category": "fullscreen"
+      },
+      {
+        "title": "toggle window native fullscreen",
+        "shortcut": "shift + alt + f",
+        "category": "fullscreen"
+      },
+      {
+        "title": "toggle topmost",
+        "shortcut": "alt + o",
+        "aliases": ["keep above", "always on top"]
+      },
+      {
+        "title": "create desktop, move window and follow focus",
+        "shortcut": "shift + cmd + n",
+        "category": "desktop"
+      },
+      {
+        "title": "create desktop and follow focus",
+        "shortcut": "cmd + alt + n",
+        "category": "desktop"
+      },
+      {
+        "title": "destroy desktop",
+        "shortcut": "cmd + alt + w",
+        "category": "desktop"
+      },
+      {
+        "title": "fast focus desktop",
+        "shortcut": "cmd + alt + 0-9xzc",
+        "category": "desktop"
+      },
+      {
+        "title": "send window to desktop and follow focus",
+        "shortcut": "shift + cmd + 0-9xzc",
+        "category": "desktop"
+      },
+      {
+        "title": "focus monitor",
+        "shortcut": "ctrl + alt + 123xzc",
+        "category": "monitor"
+      },
+      {
+        "title": "send window to monitor and follow focus",
+        "shortcut": "ctrl + cmd + 123xzc",
+        "category": "monitor"
+      },
+      {
+        "title": "toggle window float",
+        "shortcut": "alt + t",
+        "category": "window"
+      }
+    ]
+  },
+  {
+    "title": "Spotify",
+    "list": [
+      {
+        "title": "play / pause",
+        "shortcut": "cmd + alt + p",
+        "category": "spotify"
+      },
+      {
+        "title": "next track",
+        "shortcut": "cmd + alt + [",
+        "aliases": ["skip"],
+        "category": "spotify"
+      },
+      {
+        "title": "previous track",
+        "shortcut": "cmd + alt + o",
+        "aliases": ["back"],
+        "category": "spotify"
+      },
+      {
+        "title": "toggle shuffle",
+        "shortcut": "cmd + alt + l",
+        "aliases": ["random"],
+        "category": "spotify"
+      },
+      {
+        "title": "toggle repeat",
+        "shortcut": "cmd + alt + '",
+        "aliases": ["loop"],
+        "category": "spotify"
+      },
+      {
+        "title": "replay from start",
+        "shortcut": "cmd + alt + ;",
+        "category": "spotify"
+      }
+    ]
+  }
+]
